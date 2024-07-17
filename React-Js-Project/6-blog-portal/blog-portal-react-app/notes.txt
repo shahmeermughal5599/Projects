@@ -1,0 +1,42 @@
+npx create-react-app blog-portal-react-app
+
+npm install react-router-dom
+npm install react-query
+npm install antd
+
+npm install react-router-dom react-query antd moment
+
+moment is replaced from dayjs
+
+
+npm install apisauce@3.0.0
+
+
+
+
+JWT TOKEN
+
+JSON WEB TOKEN
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzIiwianRpIjoiZDU0ZmM1ODVkMTQzZWNkZmQzNDAwZDJkZDM5ZTEzY2JkZTNhMjlmNmNmZTNlZDczMTU1ZWNlYjA4OGI3NjEzZmYzYWQwY2NlODBkYWZkNzgiLCJpYXQiOjE3MTI0ODY1MzIsIm5iZiI6MTcxMjQ4NjUzMiwiZXhwIjoxNzQ0MDIyNTMyLCJzdWIiOiIyNSIsInNjb3BlcyI6W119.Yoktg2Tuisuz4nZ2zcn4ZIV1hL3Fx32_fWuigDqRFXgI25jKUG1WYI9N_eooGVry9qMb5nOCXntmJC8EysOeRMVGe5IphkudD9PK-itG-kMpk654VdMs0MpfPpapA9TnGI3E8tTsWmI3UZew2X66xaEFqB7S-nbDODbPb4mx9cTCzxxDNY0OyYMGRtpvw20veIdSSaCR-BFJjm24_lZD7LhCLoLdo_bFHiMITXUT7bzgZzA3468FviXfDUc3UXJPxoI9vl8FJfKDoxWf2U57J_0q8ZAS0vUAtPzExbPaKE0QYNA9_rSevCqEaNxCDvzwtRNQeytsjn3P1thQdWHJH025-HjrcbyhgRJXufdFuTr0Iemc8AxmS3W5xIT94EhyXBnZF9Fv57aWszTU6BkBBJVqDFUzcMcF_JZCkBDxISvkWJFvYofRJXiZx-3lQIjGxD3KzgCvHpo6FfGnm3JFRGgtwdWfTFx7CJ1X4r5EDhxqoAeMKJrfkY6cPrDTeeXUooaT47vajjsrMX4MFsYlG83ILUFyZ5L7wjJwORSYPmkBhGZY32CNE7yJhsbiXCbE1mj78ujQARd4oNcbo4WbsUNAptRxKsjrKHGqH14dH1GMdrLFepIumaw3AhTjur691v1sKKUPLcgC7Yt7NfqBndUoy3xwDXDELISTcZ1-iNE
+
+jwt.io
+
+
+npm install --save chart.js react-chartjs-2
+
+
+
+deployment steps
+
+create .env.production
+npm run build
+upload this build folder to hosting
+then copy paste .htaccess
+
+firebase
+netlify
+heruko
+vercel
+
+deploy your app via command but it will generate random url

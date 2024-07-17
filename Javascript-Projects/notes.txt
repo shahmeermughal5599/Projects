@@ -1,0 +1,21 @@
+Javascript
+
+Javascript is a programming language
+Javascript is a client side (browser) language
+
+javascript features:
+
+you can create mobile application cross platform (android/ios) with React Native
+you can also create desktop application cross platform (windows / macos / linux) with Electron Js
+you can also build games with js
+you can also work on machine learning
+you can also work on web scrapping
+you don't have a choice for client side language
+
+
+Designed by: Brendan Eich
+First appeared: December 4, 1995; 27 years ago
+
+
+
+

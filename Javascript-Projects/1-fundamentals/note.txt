@@ -1,0 +1,9 @@
+VS Code Download Link
+https://code.visualstudio.com/download
+
+Install Two Packages is VS Code
+1- Live Server
+2- Javascript (ES6) code snippets
+
+JS Intro 
+https://www.w3schools.com/js/js_intro.asp

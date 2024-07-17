@@ -1,0 +1,73 @@
+Build Mobile 
+
+can we convert website to mobile application ?
+
+YES
+
+1-PWA (Progressive Web App)
+2-Cordova (it like iframe for mobile)
+2-Ionic (ionic is using cordova behind the scene)
+
+
+Real Native App
+
+Ios App (build with swifth programming language)
+Android App (build with java programming language / kotlin )
+
+
+Build Cross Platform Application means you can write both apps with single code base
+
+
+Build Android/Ios App Same time
+
+
+React Native support cross platform application (android/ios)
+
+it is real native app
+
+
+https://reactnative.dev/docs/intro-react-native-components#core-components
+
+
+What is Js Engines
+
+President -> Translator -> language ko Smajjh kar -> President ko btayega
+
+
+we use compilers for understanding the javascript in to the browser 
+
+
+Compilers
+
+1-chrome is using v8 javascript engine
+2-SpiderMonkey – The JavaScript Engine powering Mozilla Firefox
+3-JavaScriptCore – Open-source JavaScript Engine developed by Apple for Safari
+
+
+
+For Ios App we will use javascript core engine.
+
+For Android react native will use hermes engine
+
+Hermes is an open-source JavaScript engine optimized for React Native. For many apps, using Hermes will result in improved start-up time, decreased memory usage, and smaller app size when compared to JavaScriptCore. Hermes is used by default by React Native and no additional configuration is required to enable it
+
+https://reactnative.dev/docs/hermes
+
+
+when we are using the debug tool it will use chrome v8 engine
+
+
+React Native Running with Three Threads (Proccess)
+
+1-Ui Thread
+2-Javascript Thread
+3-Background Process Thread
+
+
+https://expo.dev/
+
+
+create expo account
+and create snak in expo
+
+in flexbox layout react native support flex-direction column by default
